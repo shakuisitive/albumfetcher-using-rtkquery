@@ -15,7 +15,5 @@ Narrowing down my focus allowed me to gain a deeper understanding of this tool i
 - Data synchronization
 
 - Middlewares and more!
-- 
-Check it out!
 
 🌐 Live Demo: albumfetcher-rtkquery.netlify.app
