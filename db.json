@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "name": "Paula Fritsch DVM",
+      "id": 1
+    },
+    {
+      "name": "Carroll Gottlieb",
+      "id": 3
+    },
+    {
+      "name": "Mr. Joseph Price",
+      "id": 6
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Incredible Granite Chair",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Gorgeous Metal Hat",
+      "id": 2
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=41446",
+      "id": 9
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4637",
+      "id": 10
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=26489",
+      "id": 11
+    }
+  ]
+}
