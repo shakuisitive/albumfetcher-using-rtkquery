@@ -1,28 +1,27 @@
 {
   "users": [
     {
-      "name": "Paula Fritsch DVM",
-      "id": 1
-    },
-    {
       "name": "Carroll Gottlieb",
       "id": 3
     },
     {
       "name": "Mr. Joseph Price",
       "id": 6
+    },
+    {
+      "name": "Marjorie Kuphal DDS",
+      "id": 7
+    },
+    {
+      "name": "Marcos Schmidt",
+      "id": 8
     }
   ],
   "albums": [
     {
-      "userId": 1,
-      "title": "Incredible Granite Chair",
+      "userId": 8,
+      "title": "Generic Frozen Table",
       "id": 1
-    },
-    {
-      "userId": 1,
-      "title": "Gorgeous Metal Hat",
-      "id": 2
     }
   ],
   "photos": [
@@ -40,6 +39,11 @@
       "albumId": 1,
       "url": "https://loremflickr.com/150/150/abstract?lock=26489",
       "id": 11
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=74840",
+      "id": 12
     }
   ]
 }
